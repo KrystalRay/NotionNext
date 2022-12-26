@@ -19,7 +19,7 @@ const BLOG = {
   CONTACT_WEIBO: '', // 你的微博个人主页
   CONTACT_TWITTER: '', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/KrystalRay', // 你的github个人主页
-  CONTACT_TELEGRAM: 'https://t.me/tangly_1024', // 你的telegram 地址 例如 https://t.me/tangly_1024
+  CONTACT_TELEGRAM: '', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: '', // 你的linkedIn 首页
 
   // 自定义字体示例： 请先将 CUSTOM_FONT 改为 true， 并将 CUSTOM_FONT_URL 改为你的字体CSS地址，同时在 CUSTOM_FONT_SANS 与 CUSTOM_FONT_SERIF 中指定你的 fontfamily
